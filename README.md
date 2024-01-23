@@ -1,5 +1,8 @@
 # Vue Sneakers 👟
 
+# Hospedado na [Vercel](https://vercel.com/)
+[Visualizar Vue-Sneakers](https://vue-sneakers-chi.vercel.app/)
+
 ## Como começar?
 
 1. Clone o repositório para o seu PC
